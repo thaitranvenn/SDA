@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\CẤU TRÚC DỮ LIỆU VÀ GIẢI THUẬT\Lab5 SDA\Lab5 SDA\Check.h(14,21): warning C4018: '<': signed/unsigned mismatch
+D:\CẤU TRÚC DỮ LIỆU VÀ GIẢI THUẬT\Lab5 SDA\Lab5 SDA\Source.cpp(14,2): warning C4551: function call missing argument list
+D:\CẤU TRÚC DỮ LIỆU VÀ GIẢI THUẬT\Lab5 SDA\Lab5 SDA\Source.cpp(233,18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab5 SDA.vcxproj -> D:\CẤU TRÚC DỮ LIỆU VÀ GIẢI THUẬT\Lab5 SDA\Debug\Lab5 SDA.exe
